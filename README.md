@@ -1,7 +1,7 @@
 # ML-on-Absenteeism
-A large problem within organisations is how to motivate their employees. I am dedicating this effort to the study of motivation, given the traditional approaches to understanding motivation through evaluation are fraught with subjectivities, using the Happy Force dataset. This is the application of machine learning on absenteeism.
+A large problem within organisations is how to motivate their employees. I am dedicating this effort to the study of motivation, given the traditional approaches to understanding motivation through evaluation are fraught with subjectivities, using the a manufacturing company's dataset. This is the application of machine learning on absenteeism.
 
-This report analyses all the data available from HappyForce in order to predict workforce absenteeism & understand the drivers. The HappyForce dataset contains data relating to one company, C1, a Manufacturing company in Madrid.
+This report analyses all the data available from the data in order to predict workforce absenteeism & understand the drivers. The  dataset contains data relating to one company, a manufacturing company in Madrid.
 
 ## Objectives
 1. Develop machine learning to predict absenteeism - via Support Vector Machine & Random Forest Tree algorithms
